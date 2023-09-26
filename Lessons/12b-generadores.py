@@ -1,4 +1,4 @@
-"""
+"""65
 Generadores: función especial que permite generar una secuencia de valores sobre la marcha, en lugar de generarlos todos a la vez y devolverlos en una lista.
     
     Se define como una función normal, pero usando la palabra clave yield en lugar de return para devolver valores.

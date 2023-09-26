@@ -2,7 +2,6 @@ import time
 
 num_elementos = 1000000
 lista = list(range(num_elementos))
-
 conjunto = set(lista)
 
 inicio = time.time()
