@@ -10,8 +10,8 @@
 ## - Funciones integradas
 
 
-## - Comprehensions [TO DO]
-
-
 ## -  Ejercicios #8 a #10
+
+
+## - Comprehensions [TO DO]
 

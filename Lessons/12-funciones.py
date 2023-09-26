@@ -33,9 +33,6 @@
 ## - Pasaje de parametro por valor vs por referencia
 
 
-## - r1 a r9 en examples.py
-
-
 ## - Argumentos indeterminados
 
 
@@ -52,5 +49,4 @@
 
 
 ## - Ejercicios #30 a #35
-
 

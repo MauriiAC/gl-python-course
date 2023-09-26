@@ -1,5 +1,6 @@
 ## - Concepto de variable - graficar
 
+
 # ## - Sintaxis
 
 
@@ -13,6 +14,7 @@
 
 
 ## - NameError
+
 
 ## - Buenas practicas en nombres
 

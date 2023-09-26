@@ -24,10 +24,10 @@ mi_lista = [2, 8, -5, 24]
 mi_numero = 5
 
 def cambia_valores(elem):
-    if(type(elem) == type([])):
+    if(type(elem) == list):
         for i in range(len(elem)):
             elem[i] *= 2
-    elif(type(elem) == type(2)):
+    elif(type(elem) == int):
         elem *= 2
 
 cambia_valores(mi_lista)
