@@ -1,1 +1,1 @@
-## - [TO DO]
+## - lista vs generadores

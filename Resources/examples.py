@@ -94,29 +94,7 @@ print(mi_lista)
 print(mi_lista2)
 print(mi_lista3)
 
-
-
-# r6 - recursividad
-def cuenta(numero):
-    numero -= 1
-
-    if numero > 0:
-        print(f'----> {numero}')
-        cuenta(numero)
-    else:
-        print('Booooom!!')
-
-
-# r7 - recursividad
-def factorial(num):
-    
-    if(num > 1):
-        return num * factorial(num - 1)
-    else:
-        return num
-
-
-# r8 - cambio valores
+# r6 - cambio valores
 def cambia_valor(dato):
 
     # print(id(dato))
