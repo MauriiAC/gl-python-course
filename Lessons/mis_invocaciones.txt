@@ -1,0 +1,4 @@
+Ejecutando la función suma con los args (10, 20) y los kwargs {}
+Ejecutando la función suma con los args () y los kwargs {'a': 8, 'b': 3}
+Ejecutando la función resta con los args (5, 9) y los kwargs {}
+Ejecutando la función resta con los args (5, 9) y los kwargs {}
